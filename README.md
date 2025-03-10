@@ -10,11 +10,11 @@ Ce projet est une application web écrite en Go qui vous permet de découvrir qu
 
 ## 🚀 Installation et Exécution
 
-### Prérequis
+### 1️⃣ Prérequis
 
 - [Go](https://go.dev/doc/install) installé sur votre machine.
 
-### Démarrage
+### 2️⃣ Démarrage
 
 1. Clonez le dépôt :
 
