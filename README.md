@@ -1,11 +1,33 @@
-# **1 - QuelPoké - Qu'est ce que c'est ?** 
+# Quel Pokémon es-tu ?
 
+Ce projet est une application web écrite en Go qui vous permet de découvrir quel Pokémon vous correspond en fonction de votre prénom.
 
-# **2 - Comment le lancer sur son PC**
-Ouvrir le **cmd**
+## 📁 Contenu du dépôt
 
-Aller dans le répértoire où est situé le **main.io**
+- `main.go` : Code source principal de l'application.
+- `index.tmpl.html` : Template HTML pour l'affichage des résultats.
+- `go.mod` : Fichier de gestion des dépendances Go.
 
-Executer la commande **```go run main.io```**
+## 🚀 Installation et Exécution
 
-Sur un navigateur web, tapper **```localhost:8080```**
+### Prérequis
+
+- [Go](https://go.dev/doc/install) installé sur votre machine.
+
+### Démarrage
+
+1. Clonez le dépôt :
+
+   ```sh
+   git clone https://github.com/votre-utilisateur/votre-repo.git
+   cd votre-repo
+
+2. Lancer le dépot :
+
+   ```sh
+   go run main.go
+
+2. Se connecter sur l'interface Web :
+
+   ```sh
+   http://localhost:8080
